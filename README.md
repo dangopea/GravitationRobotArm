@@ -76,10 +76,9 @@
         compass0 = v;
         ```
         
+![Untitled](https://github.com/dangopea/RobotArm/assets/67912172/06112908-8dc3-4228-b25d-316458d29f44)
+![Untitled2](https://github.com/dangopea/RobotArm/assets/67912172/fff9dcf6-7fa9-406d-b44d-6418bcd8c8f7)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a02fdb40-53c5-41d4-9c76-e67acdf7fe28/20a7f49d-540a-4786-8448-90d211bc2cd9/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a02fdb40-53c5-41d4-9c76-e67acdf7fe28/897a967b-5c96-455e-b18d-e61f4252c1d3/Untitled.png)
 
 ### 2.3 **Servo Control & Movement Execution:**
 
@@ -190,7 +189,8 @@ The power supply that's connected to the PWM board screw connectors should be ab
     | 5. VCC 2 | 5V of WeMos |
     | 6. PWM, VCC & GND | All connected to 6 Servo Motors: |
 
-![Schematic.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a02fdb40-53c5-41d4-9c76-e67acdf7fe28/1cc919a0-e730-4983-8f0d-c6b4c02d3b50/Schematic.png)
+![Schematic](https://github.com/dangopea/RobotArm/assets/67912172/ecf3d5e8-ed7b-4cfd-918c-b50be865d0e0)
+
 
 # 4. SOLDERING & FIXING
 
@@ -204,5 +204,5 @@ The power supply that's connected to the PWM board screw connectors should be ab
     1. AD0 to VCC
     2. AD0 to GND
     
+<img width="1212" alt="Screenshot 2566-11-13 at 5 10 34 pm" src="https://github.com/dangopea/RobotArm/assets/67912172/69e89a84-10f7-4c91-b9c8-adea690cf275">
 
-![Screenshot 2566-11-13 at 5.10.34 pm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a02fdb40-53c5-41d4-9c76-e67acdf7fe28/90c9d634-16c3-47b5-bdaa-ef630508917b/Screenshot_2566-11-13_at_5.10.34_pm.png)
